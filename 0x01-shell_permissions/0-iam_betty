@@ -1,1 +1,1 @@
-su -c betty
+sudo useradd betty
